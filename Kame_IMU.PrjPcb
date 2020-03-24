@@ -30,10 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=F1F0B8E4-3DA5-4615-8326-9E256C85F9E9
-VaultGUID=72CBDFA3-EBA2-4F5E-B612-A4205B5835E8
+ManagedProjectGUID=F35913BC-9FD8-43D5-B6EE-A1BC4E26552E
+VaultGUID=4A797E1E-BB22-41D9-8A94-FCF32F6D68BE
 ReleaseVaultName=<Company> Server
-ItemGUID=F1F0B8E4-3DA5-4615-8326-9E256C85F9E9
+ItemGUID=F35913BC-9FD8-43D5-B6EE-A1BC4E26552E
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -1401,7 +1401,7 @@ ParameterName18=ComponentLink3URL
 ParameterUpdate18=1
 ParameterName19=Contact Plating
 ParameterUpdate19=1
-ParameterName20=Current - Continuous Drain (Id) @ 25° C
+ParameterName20=Current - Continuous Drain (Id) @ 25ï¿½ C
 ParameterUpdate20=1
 ParameterName21=Current - Supply (Max)
 ParameterUpdate21=1
